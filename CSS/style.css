@@ -1,6 +1,6 @@
 body
 {
-    color:#d60505;
+    background-color:#0d1022;
     text-align:center;
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
@@ -28,6 +28,9 @@ body
     text-align: left;
     border:1px solid #fffdfd;
     margin: 0 auto;
+}
+#post{
+    color: #fff;
 }
 #container h1
 {
